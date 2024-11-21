@@ -1,0 +1,33 @@
+.styleme
+{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 40px;
+
+}
+.par-1
+{
+    font-size: 35px;
+}
+.st-btn
+{
+    width: 250;
+    height: 80;
+    background-color: blue;
+    color: white;
+}
+.st-btn:hover
+{
+    background-color: green;
+}
+
+.ST_PP
+{
+    font-size: 35px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
